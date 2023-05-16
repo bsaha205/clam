@@ -1,6 +1,6 @@
 /saved_models
 /results
-data/BNG_JapaneseVowels_1M_14_9_zipped.npz
+/data/BNG_JapaneseVowels_1M_14_9_zipped.npz
 /*.tar.gz
 __pycache__
 .ipynb_checkpoints
