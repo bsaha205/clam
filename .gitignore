@@ -1,0 +1,6 @@
+/saved_models
+/results
+/*.tar.gz
+__pycache__
+.ipynb_checkpoints
+.DS_Store
